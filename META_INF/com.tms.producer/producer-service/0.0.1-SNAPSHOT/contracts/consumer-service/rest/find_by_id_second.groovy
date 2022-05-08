@@ -20,7 +20,7 @@ Contract.make {
                 "name": "second-name",
                 "domain": "test-domain",
                 "teams": [
-                        "1",
+                        "one",
                         "2",
                         "3"
                 ],
